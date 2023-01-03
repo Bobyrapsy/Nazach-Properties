@@ -501,9 +501,9 @@ footer p:nth-child(2){
    .dfg{
        margin-left: -5rem;
     }
-
+	
    .about-col{
-       margin-top: 3rem;
+       margin-top: 6rem;
        margin-left: 5px;
        padding-left: 5rem;
     }
@@ -523,9 +523,9 @@ footer p:nth-child(2){
     span{
        color: #ffcc00;
     }
-
+	
     .dad img{
-       margin-top: 15rem;
+       margin-top: 19rem;
        margin-left: 10px;
        height: 10rem;
        border-radius: 10rem;
@@ -626,7 +626,7 @@ footer p:nth-child(2){
         padding: 10px 20px;
         border-radius: 60px;
         transition: .4s;
-        margin-left: 90px;
+        margin-left: 110px;
         margin-bottom: 2%;
     }
 
@@ -644,7 +644,7 @@ footer p:nth-child(2){
     }
 
     .RealEstate-col h4{
-        margin-left: 4rem;
+        margin-left: 5rem;
     }
 
     
