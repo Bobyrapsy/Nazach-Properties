@@ -1,0 +1,1 @@
+# Nazach-properties
