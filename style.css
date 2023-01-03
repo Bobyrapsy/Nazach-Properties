@@ -629,6 +629,10 @@ footer p:nth-child(2){
         margin-left: 110px;
         margin-bottom: 2%;
     }
+	
+    .RealEstate{
+        padding-top: 9rem;
+    }
 
     .RealEstate h1{
         font-size: 3rem;
